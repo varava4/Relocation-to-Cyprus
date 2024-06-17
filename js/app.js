@@ -4309,11 +4309,4 @@
 
 
 
-ScrollSmoother.create({
-	wrapper: '.wrapper',
-	content: '.page',
-	smooth: 1.1,
-	effects: true
-})
-
 
